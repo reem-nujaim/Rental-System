@@ -1,165 +1,127 @@
-# 🚗 نظام كراء للتأجير | Rental Management System
+# 🚀 Kera'a System for Rental | نظام كراء للتأجير
 
-## 📌 نبذة عن المشروع | About the Project
+<div align="center">
 
-### العربية
-نظام كراء للتأجير هو تطبيق موبايل يهدف إلى تسهيل إدارة عمليات التأجير من خلال توفير منصة متكاملة لإدارة العملاء والعقود والمدفوعات والأصول المؤجرة بطريقة سهلة وآمنة.
+تطبيق موبايل ذكي لإدارة عمليات التأجير والاستئجار بطريقة آمنة وسهلة.
 
-### English
-Rental Management System is a mobile application designed to simplify rental operations by providing an integrated platform for managing customers, contracts, payments, and rental assets in a secure and user-friendly way.
+Smart mobile application for rental management and peer-to-peer item sharing.
 
----
-
-## 🎯 أهداف المشروع | Project Objectives
-
-### العربية
-- أتمتة عمليات التأجير وإدارة العقود.
-- تسهيل إدارة العملاء.
-- متابعة المدفوعات والإيرادات.
-- تقليل الأخطاء الناتجة عن الإدارة اليدوية.
-- توفير واجهة استخدام سهلة وسريعة.
-
-### English
-- Automate rental and contract management processes.
-- Simplify customer management.
-- Track payments and revenues.
-- Reduce errors caused by manual management.
-- Provide an easy and intuitive user experience.
+</div>
 
 ---
 
-## 🛠️ التقنيات المستخدمة | Technologies Used
+# 📖 About the Project | نبذة عن المشروع
 
-### Frontend (Mobile Application)
+### العربية
+
+نظام **كراء للتأجير** هو منصة رقمية مبتكرة تتيح للأفراد تأجير واستئجار مختلف الأغراض والمنتجات بسهولة عبر الإنترنت. يهدف النظام إلى الاستفادة من الموارد غير المستخدمة من خلال ربط المؤجرين بالمستأجرين داخل بيئة آمنة وموثوقة.
+
+يوفر التطبيق حلولاً للمستخدمين الذين يحتاجون إلى أغراض لفترات مؤقتة دون الحاجة إلى شرائها، مع تمكين أصحاب الأغراض من تحقيق دخل إضافي عبر تأجير ممتلكاتهم. :contentReference[oaicite:1]{index=1}
+
+### English
+
+**Kera'a Rental System** is a digital platform that enables users to rent and lease various items online. The system connects renters and owners through a secure and reliable environment, promoting resource sharing and reducing unnecessary purchases.
+
+---
+
+# 🎯 Project Objectives | أهداف المشروع
+
+- توفير خيارات تأجير اقتصادية.
+- تلبية الاحتياجات المؤقتة للمستخدمين.
+- تسهيل الوصول إلى المنتجات دون الحاجة لشرائها.
+- توفير تقييمات ومراجعات موثوقة.
+- تعزيز الأمان والثقة بين المؤجر والمستأجر.
+- توفير خدمات تأجير مرنة وسهلة الاستخدام. :contentReference[oaicite:2]{index=2}
+
+---
+
+# ✨ Features | المميزات
+
+## 👤 For Renters | للمستأجر
+
+- إنشاء حساب وتسجيل الدخول.
+- تصفح الأغراض المتاحة.
+- البحث عن المنتجات.
+- استئجار الأغراض.
+- اختيار طريقة الدفع.
+- تقييم الأغراض.
+- متابعة الطلبات والإيجارات الخاصة به. :contentReference[oaicite:3]{index=3}
+
+## 🏠 For Owners | للمؤجر
+
+- إضافة أغراض للتأجير.
+- تعديل وحذف الأغراض.
+- إدارة الطلبات الواردة.
+- توثيق الحساب.
+- متابعة حالة الإيجارات. :contentReference[oaicite:4]{index=4}
+
+## 🛡️ For Administrators | للإدارة
+
+- إدارة المستخدمين.
+- إدارة الطلبات.
+- إصدار الفواتير.
+- إنشاء التقارير.
+- توثيق وتعطيل الحسابات.
+- إدارة إعدادات النظام. :contentReference[oaicite:5]{index=5}
+
+---
+
+# 🏗️ System Architecture | معمارية النظام
+
+### Mobile Application
 - Flutter
 - Dart
 
-### Backend (API)
+### Backend API
 - Laravel
 - PHP
 
 ### Database
 - MySQL
 
-### Tools
-- Visual Studio Code
+### Development Tools
 - Android Studio
-- Postman
+- Visual Studio Code
 - Git & GitHub
+- Postman
+
+تم تطوير النظام باستخدام Flutter للواجهة الأمامية وLaravel للخادم وMySQL لإدارة البيانات. :contentReference[oaicite:6]{index=6}
 
 ---
 
-## ✨ المميزات | Features
+# 📱 Main Screens | أهم الواجهات
 
-### العربية
-- تسجيل الدخول وإدارة الحسابات.
-- إدارة العملاء.
-- إدارة الأصول أو العناصر المتاحة للتأجير.
-- إنشاء وإدارة عقود التأجير.
-- متابعة المدفوعات.
-- عرض التقارير والإحصائيات.
-- واجهة سهلة الاستخدام.
-
-### English
-- User authentication and account management.
-- Customer management.
-- Rental asset management.
-- Rental contract creation and management.
-- Payment tracking.
-- Reports and statistics.
-- User-friendly interface.
+- Welcome Screen
+- Login & Register
+- Home Page
+- Categories
+- Item Details
+- My Rentals
+- User Profile
+- Reports
+- Notifications
+- Admin Dashboard :contentReference[oaicite:7]{index=7}
 
 ---
 
-## 📱 صور من التطبيق | Application Screenshots
+# 🔐 Non-Functional Requirements | المتطلبات غير الوظيفية
 
-### Home Screen
-![Home Screen](docs/screenshots/home.png)
-
-### Login Screen
-![Login Screen](docs/screenshots/login.png)
-
-### Dashboard
-![Dashboard](docs/screenshots/dashboard.png)
-
-> قم باستبدال الصور بالصور الحقيقية من مشروعك.
-
----
-
-## 🎥 فيديو توضيحي | Demo Video
-
-يمكن مشاهدة الفيديو من خلال الرابط التالي:
-
-You can watch the project demonstration video here:
-
-[Demo Video Link](https://your-video-link-here.com)
+- Performance
+- Security
+- Scalability
+- Availability
+- Maintainability
+- Compatibility
+- Flexibility
+- Documentation
+- Efficiency :contentReference[oaicite:8]{index=8}
 
 ---
 
-## 🗄️ قاعدة البيانات | Database
-
-يستخدم المشروع قاعدة بيانات MySQL لتخزين:
-
-- بيانات المستخدمين
-- بيانات العملاء
-- العقود
-- المدفوعات
-- الأصول المؤجرة
-
-The system uses MySQL to store:
-
-- Users
-- Customers
-- Contracts
-- Payments
-- Rental Assets
-
----
-
-## 🚀 تشغيل المشروع | Installation & Setup
-
-### 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/your-username/rental-management-system.git
-```
-
----
-
-### 2️⃣ Flutter Setup
-
-```bash
-cd flutter_app
-
-flutter pub get
-
-flutter run
-```
-
----
-
-### 3️⃣ Laravel Setup
-
-```bash
-cd laravel_api
-
-composer install
-
-cp .env.example .env
-
-php artisan key:generate
-
-php artisan migrate
-
-php artisan serve
-```
-
----
-
-## 📂 هيكل المشروع | Project Structure
+# 📂 Project Structure
 
 ```text
-Rental-Management-System/
+Keraa-Rental-System/
 │
 ├── flutter_app/
 │   ├── lib/
@@ -173,9 +135,9 @@ Rental-Management-System/
 │   └── artisan
 │
 ├── docs/
-│   ├── screenshots/
 │   ├── report.pdf
-│   └── presentation.pdf
+│   ├── screenshots/
+│   └── diagrams/
 │
 ├── database/
 │   └── schema.sql
@@ -185,59 +147,88 @@ Rental-Management-System/
 
 ---
 
-## 👥 فريق العمل | Team Members
+# 🚀 Installation
 
-| Name | Role |
-|--------|--------|
-| Member 1 | Flutter Developer |
-| Member 2 | Laravel Developer |
-| Member 3 | Database Designer |
-| Member 4 | Project Manager |
+## Flutter
 
----
-
-## 📄 التوثيق | Documentation
-
-يتوفر التوثيق الكامل للمشروع داخل مجلد:
-
-```text
-docs/
+```bash
+flutter pub get
+flutter run
 ```
 
-ويشمل:
+## Laravel
 
-- تقرير المشروع
-- مخطط قاعدة البيانات
-- لقطات الشاشة
-- العرض التقديمي
+```bash
+composer install
 
----
+cp .env.example .env
 
-## 🔒 ملاحظات أمنية | Security Notes
+php artisan key:generate
 
-لا تقم برفع الملفات التالية إلى GitHub:
+php artisan migrate
 
-```text
-.env
-vendor/
-node_modules/
-storage/logs/
-build/
-.dart_tool/
+php artisan serve
 ```
 
 ---
 
-## 📜 License
+# 🗄️ Database
 
-This project is developed for educational and academic purposes.
+يتضمن النظام إدارة:
 
-هذا المشروع تم تطويره لأغراض تعليمية وأكاديمية.
+- المستخدمين
+- الفئات
+- الأغراض
+- الطلبات
+- التأمينات
+- الفواتير
+- المتأخرات
+- التقييمات
+- الإشعارات
+- سجل العمليات :contentReference[oaicite:9]{index=9}
 
 ---
 
-## ⭐ Support
+# 🌍 Project Scope | نطاق المشروع
 
-إذا أعجبك المشروع لا تنسَ وضع ⭐ للمستودع.
+يستهدف التطبيق المؤجرين والمستأجرين داخل أمانة العاصمة صنعاء، ويعمل على أنظمة Android وiOS. :contentReference[oaicite:10]{index=10}
 
-If you like this project, don't forget to leave a ⭐ on the repository.
+---
+
+# 🎥 Demo
+
+يمكن مشاهدة الفيديو التعريفي للمشروع عبر الرابط التالي:
+
+[Demo Video](PUT_YOUR_VIDEO_LINK_HERE)
+
+---
+
+# 👩‍💻 Team Members
+
+- ريم صادق نجيم
+- براءة ظافر الوادعي
+- آية عبد السالم العزعزي
+- امتنان علي الدعيس
+- أمة الرحمن محمد بدرالدين
+- أسماء عبدالله الصديق :contentReference[oaicite:11]{index=11}
+
+---
+
+# 🎓 Academic Project
+
+Graduation Project submitted to:
+
+**Faculty of Computers and Information Technology**  
+**Sana'a University**  
+**Information Technology Department**  
+Academic Year 2024-2025. :contentReference[oaicite:12]{index=12}
+
+---
+
+# 📜 License
+
+This project is intended for educational and academic purposes.
+
+---
+
+⭐ If you like this project, don't forget to star the repository.
