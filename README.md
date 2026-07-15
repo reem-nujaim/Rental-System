@@ -145,9 +145,9 @@ The system manages:
 
 ### Mobile Application
 
-| Welcome Screen | Home Screen | Item Details |
-|---------------|-------------|-------------|
-| Add Screenshot | Add Screenshot | Add Screenshot |
+| Welcome Screen | Home Screen |
+|---------------|-------------|
+| docs/screenshots/welcome.png | docs/screenshots/home.png |
 
 ### Admin Dashboard
 
