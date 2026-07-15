@@ -147,13 +147,13 @@ The system manages:
 
 | Welcome Screen | Home Screen |
 |---------------|-------------|
-| docs/screenshots/welcome.png | docs/screenshots/home.png |
+| ![Welcome Screen](docs/screenshots/welcome.png) | ![Home Screen](docs/screenshots/home.png) |
 
 ### Admin Dashboard
 
 | Dashboard | Reports | User Management |
 |------------|----------|----------------|
-| Add Screenshot | Add Screenshot | Add Screenshot |
+| ![Dashboard Screen](docs/screenshots/dashboard.png) | ![Reports Screen](docs/screenshots/reports.png) | ![User Managemet Screen](docs/screenshots/usersManagment.png) |
 
 ---
 
