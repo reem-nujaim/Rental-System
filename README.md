@@ -133,7 +133,6 @@ The system manages:
 - Rental Items
 - Rental Requests
 - Invoices
-- Deposits
 - Late Fees
 - Ratings & Reviews
 - Notifications
@@ -163,7 +162,7 @@ The system manages:
 ### Flutter Application
 
 ```bash
-git clone https://github.com/your-username/keraa-rental-system.git
+git clone https://github.com/reem-nujaim/keraa-rental-system.git
 
 cd flutter_app
 
@@ -175,7 +174,7 @@ flutter run
 ### Laravel Backend
 
 ```bash
-cd laravel_api
+cd laravel_backend
 
 composer install
 
@@ -200,7 +199,7 @@ Keraa-Rental-System/
 │   ├── assets/
 │   └── pubspec.yaml
 │
-├── laravel_api/
+├── laravel_backend/
 │   ├── app/
 │   ├── routes/
 │   ├── database/
@@ -208,12 +207,11 @@ Keraa-Rental-System/
 │
 ├── docs/
 │   ├── screenshots/
-│   ├── diagrams/
-│   ├── report.pdf
-│   └── presentation.pdf
+│   ├── توثيق مشروع (نظام كراء للتأجير).pdf
 │
 ├── database/
-│   └── schema.sql
+│   └── keradb.sql
+│   └── ERD.png
 │
 └── README.md
 ```
@@ -222,12 +220,12 @@ Keraa-Rental-System/
 
 ## Team Members
 
-- Reem Sadiq Najeem
-- Baraa Dhafer Al-Wadie
-- Ayah Abdul Salam Al-Azazi
-- Emtenan Ali Al-Duais
-- Amat Alrahman Mohammed Badr Aldeen
-- Asmaa Abdullah Al-Siddiq
+- Reem Sadeq Nujaim
+- Bra'ah Dhafer Al-Wadeai
+- Ayah Abdulsalam Al-Azazy
+- Emtenan Ali Al-Douais
+- Amatulrhman Mohammed Badraldeen
+- Asma'a Abdullah Al-Seddeq
 
 ---
 
