@@ -16,7 +16,7 @@ Smart mobile application for rental management and peer-to-peer item sharing.
 
 نظام **كراء للتأجير** هو منصة رقمية مبتكرة تتيح للأفراد تأجير واستئجار مختلف الأغراض والمنتجات بسهولة عبر الإنترنت. يهدف النظام إلى الاستفادة من الموارد غير المستخدمة من خلال ربط المؤجرين بالمستأجرين داخل بيئة آمنة وموثوقة.
 
-يوفر التطبيق حلولاً للمستخدمين الذين يحتاجون إلى أغراض لفترات مؤقتة دون الحاجة إلى شرائها، مع تمكين أصحاب الأغراض من تحقيق دخل إضافي عبر تأجير ممتلكاتهم. :contentReference[oaicite:1]{index=1}
+يوفر التطبيق حلولاً للمستخدمين الذين يحتاجون إلى أغراض لفترات مؤقتة دون الحاجة إلى شرائها، مع تمكين أصحاب الأغراض من تحقيق دخل إضافي عبر تأجير ممتلكاتهم.
 
 ### English
 
@@ -31,7 +31,7 @@ Smart mobile application for rental management and peer-to-peer item sharing.
 - تسهيل الوصول إلى المنتجات دون الحاجة لشرائها.
 - توفير تقييمات ومراجعات موثوقة.
 - تعزيز الأمان والثقة بين المؤجر والمستأجر.
-- توفير خدمات تأجير مرنة وسهلة الاستخدام. :contentReference[oaicite:2]{index=2}
+- توفير خدمات تأجير مرنة وسهلة الاستخدام. 
 
 ---
 
@@ -45,7 +45,7 @@ Smart mobile application for rental management and peer-to-peer item sharing.
 - استئجار الأغراض.
 - اختيار طريقة الدفع.
 - تقييم الأغراض.
-- متابعة الطلبات والإيجارات الخاصة به. :contentReference[oaicite:3]{index=3}
+- متابعة الطلبات والإيجارات الخاصة به. 
 
 ## 🏠 For Owners | للمؤجر
 
@@ -53,7 +53,7 @@ Smart mobile application for rental management and peer-to-peer item sharing.
 - تعديل وحذف الأغراض.
 - إدارة الطلبات الواردة.
 - توثيق الحساب.
-- متابعة حالة الإيجارات. :contentReference[oaicite:4]{index=4}
+- متابعة حالة الإيجارات. 
 
 ## 🛡️ For Administrators | للإدارة
 
@@ -62,7 +62,7 @@ Smart mobile application for rental management and peer-to-peer item sharing.
 - إصدار الفواتير.
 - إنشاء التقارير.
 - توثيق وتعطيل الحسابات.
-- إدارة إعدادات النظام. :contentReference[oaicite:5]{index=5}
+- إدارة إعدادات النظام.
 
 ---
 
@@ -85,8 +85,7 @@ Smart mobile application for rental management and peer-to-peer item sharing.
 - Git & GitHub
 - Postman
 
-تم تطوير النظام باستخدام Flutter للواجهة الأمامية وLaravel للخادم وMySQL لإدارة البيانات. :contentReference[oaicite:6]{index=6}
-
+تم تطوير النظام باستخدام Flutter للواجهة الأمامية وLaravel للخادم وMySQL لإدارة البيانات.
 ---
 
 # 📱 Main Screens | أهم الواجهات
@@ -100,7 +99,7 @@ Smart mobile application for rental management and peer-to-peer item sharing.
 - User Profile
 - Reports
 - Notifications
-- Admin Dashboard :contentReference[oaicite:7]{index=7}
+- Admin Dashboard
 
 ---
 
@@ -114,7 +113,7 @@ Smart mobile application for rental management and peer-to-peer item sharing.
 - Compatibility
 - Flexibility
 - Documentation
-- Efficiency :contentReference[oaicite:8]{index=8}
+- Efficiency
 
 ---
 
@@ -185,21 +184,14 @@ php artisan serve
 - المتأخرات
 - التقييمات
 - الإشعارات
-- سجل العمليات :contentReference[oaicite:9]{index=9}
+- سجل العمليات
 
 ---
 
 # 🌍 Project Scope | نطاق المشروع
 
-يستهدف التطبيق المؤجرين والمستأجرين داخل أمانة العاصمة صنعاء، ويعمل على أنظمة Android وiOS. :contentReference[oaicite:10]{index=10}
+يستهدف التطبيق المؤجرين والمستأجرين داخل أمانة العاصمة صنعاء، ويعمل على أنظمة Android وiOS. 
 
----
-
-# 🎥 Demo
-
-يمكن مشاهدة الفيديو التعريفي للمشروع عبر الرابط التالي:
-
-[Demo Video](PUT_YOUR_VIDEO_LINK_HERE)
 
 ---
 
@@ -210,7 +202,7 @@ php artisan serve
 - آية عبد السالم العزعزي
 - امتنان علي الدعيس
 - أمة الرحمن محمد بدرالدين
-- أسماء عبدالله الصديق :contentReference[oaicite:11]{index=11}
+- أسماء عبدالله الصديق
 
 ---
 
@@ -221,7 +213,7 @@ Graduation Project submitted to:
 **Faculty of Computers and Information Technology**  
 **Sana'a University**  
 **Information Technology Department**  
-Academic Year 2024-2025. :contentReference[oaicite:12]{index=12}
+Academic Year 2024-2025.
 
 ---
 
